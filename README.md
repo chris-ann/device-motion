@@ -1,9 +1,10 @@
-# Basic Cordova App 
+# Basic Device Motion App
 
 Updates to original Cordova app
 - Added Google Fonts to Content Security Policy
 - Linked new CSS and JS files
 - Removed Cordova template HTML markup
+- Device Orientation Event added
 
 ## Install instructions
 
